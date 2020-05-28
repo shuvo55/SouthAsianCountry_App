@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_image"
+    android:paddingTop="20dp"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+
+            <Button
+                android:id="@+id/bdButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:background="@drawable/rounded"
+                android:drawableLeft="@drawable/bangladesh_flag_64"
+                android:padding="15dp"
+                android:text="@string/Bangladesh_Button"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/indiaButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/India_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/india_flag_icon_64"
+                android:padding="15dp"
+                />
+
+            <Button
+                android:id="@+id/pakButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Pakistan_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/pakistan_flag_icon_64"
+                android:padding="15dp"
+                />
+
+            <Button
+                android:id="@+id/srilankaButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Srilanka_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/srilanka_flag_icon_64"
+                android:padding="15dp"
+                />
+            <Button
+                android:id="@+id/nepalButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text= "@string/Nepal_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/nepal_flag_icon_64"
+                android:padding="15dp"/>
+
+            <Button
+                android:id="@+id/bhutanButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Bhutan_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/bhutan_flag_icon_64"
+                android:padding="15dp"
+                />
+
+            <Button
+                android:id="@+id/afghanistanButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Afghanistan_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/afghanistan_flag_icon_64"
+                android:padding="15dp"/>
+
+            <Button
+                android:id="@+id/maldivesButtonID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Maldives_Button"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/maldives_flag_icon_64"
+                android:padding="15dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

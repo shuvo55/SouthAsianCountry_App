@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Bangladesh_Button">Bangladesh</string>
+    <string name="India_Button">India</string>
+    <string name="Pakistan_Button">Pakistan</string>
+    <string name="Srilanka_Button">Srilanka</string>
+    <string name="Nepal_Button">Nepal</string>
+    <string name="Bhutan_Button">Bhutan</string>
+    <string name="Afghanistan_Button">Afghanistan</string>
+    <string name="Maldives_Button">Maldives</string>
+    <string name="Title_text">Exit</string>
+    <string name="question_text">Do you want to exit?</string>
+
+
+    <string name="Bangldesh_Text" formatted="true">
+     Bangladesh is a country in south asia. \n\n\n
+
+     FACTS\n\n
+     Area:147,570 km2(55,598 sq miles)\n\n
+     Population:162 million(approx.)\n\n
+     Official Language:Bengali\n\n
+     Major Religion:Islam,Hinduism,others\n\n
+     Capital:Dhaka\n\n
+     Currency:Bangladeshi Taka\n\n
+     GDP: $837.58 billion(P),$317.46 billion(N)\n\n
+     Per Capita:$5,028(PPP), $1,906(Nominal)\n\n
+     President:Abdul Hamid\n\n
+     Prime Minister:Sheikh Hasina\n\n
+    </string>
+
+
+    <string name="India_Text" formatted="true">
+     India is a country in South Asia.\n\n\n
+
+     FACTS\n\n
+     Area:3,287,263 km2(1,269,219 sq mi)\n\n
+     Population:1.35 billion(approx.)\n\n
+     Official Languages:Hindi,English\n\n
+     Major Religion:Hinduism,Islam,others\n\n
+     Capital:New Delhi\n\n
+     Currency:Indian Rupee\n\n
+     GDP:$11.48 trillion(P),$3.11 trillion(N)\n\n
+     Per Capita:$8,378(PPP),$2,172(Nominal)\n\n
+     President: Ram Nath Kovind\n\n
+     Prime Minister: Narendra Modi\n\n
+    </string>
+
+
+    <string name="Pakistan_Text" formatted="true">
+     Pakistan is a country in South Asia.\n\n\n
+
+     Facts\n\n
+     Area:881,913 km2(340,509 sq mi)\n\n
+     Population:212 million(approx.)\n\n
+     Official Languages:Urdu,English\n\n
+     Major Religion:Islam,Hinduism,Others\n\n
+     Capital:Islamabad\n\n
+     Currency:Pakistani Rupee\n\n
+     GDP:$1.20 trillion(P),$284.2 billion(N)\n\n
+     Per Capita:$5,871(PPP),$1,388(Nominal)\n\n
+     President:Arif Alvi\n\n
+     Prime Minister:Imran Khan\n\n
+    </string>
+
+
+    <string name="SriLanka_Text" formatted="true">
+     Srilanka is a country in South Asia.\n\n\n
+
+     Facts\n\n
+     Area:65,610 km2(25,330 sq mi)\n\n
+     Population:21.67 million(approx.)\n\n
+     Official Languages:Sinhali,Tamil\n\n
+     Capital:Sri Jayawardenepura Kotte\n\n
+     Major Religion:Buddhism,Hinduism,Islam\n\n
+     Currency:Sri Lankan Rupee\n\n
+     GDP:$304.82 billion(P),$86.56 billion(N)\n\n
+     Per Capita:$13,897(PPP),$3,946(Nominal)\n\n
+     President:Gotabaya Rajapaksa\n\n
+     Prime Minister:Mahinda Rajapaksa\n\n
+    </string>
+
+
+    <string name="Afghanistan_Text" formatted="true">
+     Afghanistan is a country in South Asia.\n\n\n
+
+     Facts\n\n
+     Area:652,230 km2(251,830 sq mi) \n\n
+     Population:32 million(approx.)\n\n
+     Official Languages:Pashto, Dari\n\n
+     capital:Kabul\n\n
+     Major Religion:Islam\n\n
+     Currency:Afghani\n\n
+     GDP:$72.91 billion(P),$21.65 billion(N)\n\n
+     Per Capita:$2024(PPP),$601(Nominal)\n\n
+     President:	Ashraf Ghani\n\n
+     Vice President:Abdul Rashid Dostum\n\n
+    </string>
+
+
+    <string name="Nepal_Text" formatted="true">
+     Nepal is a country in South Asia.\n\n\n
+
+     Facts\n\n
+     Area:147,181 km2 (56,827 sq mi\n\n
+     Population:28 million(approx.)\n\n
+     Official Languages:Nepali\n\n
+     Capital:Kathmundu\n\n
+     Major Religion:Hinduism,Buddhism,Islam\n\n
+     Currency:Nepalese Rupee\n\n
+     GDP:$84 billion(P),$27 billion(N)\n\n
+     Per Capita:$2842(PPP),$919(Nominal)\n\n
+     President:Bidhya Devi Bhandari\n\n
+     Prime Minister:Nanda Kishor Pun\n\n
+    </string>
+
+
+    <string name="Bhutan_Text" formatted="true">
+     Bhutan is a country in South Asia.\n\n\n
+
+     Facts\n\n
+     Area:38,394 km2 (14,824 sq mi)\n\n
+     Population:741,700(approx.)\n\n
+     Official Languages:Dzongkha\n\n
+     capital:Thimpu\n\n
+     Major Religion:Buddhism,Hinduism\n\n
+     Currency:Ngultrum\n\n
+     GDP:$7.70 billion(P),$2.55 billion(N)\n\n
+     Per Capita:$9,426(PPP),$3,117(Nominal)\n\n
+     Monarch:Jigme Wangchuck\n\n
+     Prime Minister:Lotay Tshering\n\n
+    </string>
+
+
+    <string name="Maldives_Text" formatted="true">
+     Maldives is a country in South Asia.\n\n\n
+
+     Facts\n\n
+     Area:298 km2 (115 sq mi)\n\n
+     Population:372,739(approx.)\n\n
+     Official Languages:Dhivehi\n\n
+     capital:Male\n\n
+     Major Religion:Islam\n\n
+     Currency:Maldivian rufiyaa\n\n
+     GDP:$8,608 billion(P),$5,749 billion(N)\n\n
+     Per Capita:$23,154(PPP),$15,463(Nominal)\n\n
+     President:Ibrahim Mohamed Solih\n\n
+     Vice President:Faisal Naseem\n\n
+    </string>
+
+</resources>
